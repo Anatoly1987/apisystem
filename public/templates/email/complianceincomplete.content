@@ -1,0 +1,95 @@
+                <div class="table-responsive" style="width:600px">
+                    <table class="table table-bordered" style="width:600px; border:1px solid #000;">
+                        <thead>
+                            <tr>
+                                <th style="width:550px;">Compliance Statement</th>
+                                <th>Status</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>
+                                Company's beneficial owners who own 25% or more of the company are listed on Exhibit F 
+                                </td>
+                                <td>
+                                  %opt0
+                                </td>                            
+                            </tr>
+                            <tr>
+                                <td>
+                                Company's beneficial owners who own 25% or more of the DBA or Management company are listed under the Corporate Structure statement, clause 23 of the Agreement
+                                </td>
+                                <td>
+                                  %opt1
+                                </td>                              
+                            </tr>
+                            <tr>
+                                <td>
+                                Name on Conditional Use Permit or Industry License (Exhibit E) is the same name as the Retailer or DBA Listed under the Corporate Structure Statement, clause 23 of the Agreement
+                                </td>
+                                <td>
+                                  %opt2
+                                </td>                               
+                            </tr>
+                            <tr>
+                                <td>
+                                City listed on Conditional Use Permit or Industry License (Exhibit E) is the same as the City listed in the first paragraph of the Agreement.
+                                </td>
+                                <td>
+                                  %opt3
+                                </td>                         
+                            </tr>
+                            <tr>
+                                <td>
+                                Address on Company's Seller Permit matches the address listed in the first paragraph of the Agreement.
+                                </td>
+                                <td>
+                                  %opt4
+                                </td>                               
+                            </tr>
+                            <tr>
+                                <td>
+                                Address listed in the first paragraph of the agreement is the same address as listed on every permit.
+                                </td>
+                                <td>
+                                  %opt5
+                                </td>                             
+                            </tr>
+                            <tr>
+                                <td>
+                                Bank Account Statement listed on Exhibit G is the same address as the voided check  listed on Exhibit G
+                                </td>
+                                <td>
+                                  %opt6
+                                </td>                           
+                            </tr>
+                            <tr>
+                                <td>
+                                Bank account Number and Routing Number listed in section 20(d) of the Agreement are the same as the Bank Account Statement and Voided Check listed on Exhibit G 
+                                </td>
+                                <td>
+                                  %opt7
+                                </td>                              
+                            </tr>
+                            <tr>
+                                <td>
+                                Client Company address listed in the first paragraph of the Agreement or Clause 23 is the same address listed on both the Bank Account Statement and Voided Check listed on Exhibit G
+                                </td>
+                                <td>
+                                  %opt8
+                                </td>                                 
+                            </tr>
+                            <tr>
+                                <td>
+                                Bank Account Statement on Exhibit G is under the same name as listed in Clause 23 and Exhibit F of the Agreement
+                                </td>
+                                <td>
+                                  %opt9
+                                </td>                                
+                            </tr>                                                                                                                                                                                                                                                            
+                        </tbody>
+                    </table>
+                    <br>
+                    <br>
+                    %adminname completed this at %date
+                </div>  

@@ -1,0 +1,13 @@
+1. Total Sales Count : %total_sale_count <br/>
+2. Total Sales Volume : %total_sale_volume <br/>
+3. Total Sales Per Retailer : <br/><br/>
+
+%sales_content
+
+
+<br/>
+4. Total Decline Count : %total_decline_count <br/>
+5. Total Decline Volume : %total_decline_volume <br/>
+6. Total Declines Per Retailer : <br/><br/>
+
+%decline_content
